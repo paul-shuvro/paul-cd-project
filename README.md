@@ -1,8 +1,7 @@
 # paul-cd-project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![GitHub Stars](https://img.shields.io/github/stars/paul-shuvro/paul-cd-project.svg)](https://github.com/paul-shuvro/paul-cd-project/stargazers)  
-[![GitHub Forks](https://img.shields.io/github/forks/paul-shuvro/paul-cd-project.svg)](https://github.com/paul-shuvro/paul-cd-project/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/paul-shuvro/paul-cd-project.svg)](https://github.com/paul-shuvro/paul-cd-project/stargazers) 
 
 ## Overview
 
