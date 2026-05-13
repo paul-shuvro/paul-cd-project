@@ -7,6 +7,8 @@
 
 **paul-cd-project** is a compiler design project implemented in **C**, demonstrating the construction of a lexical analyzer and parser using `lex` and `yacc` tools. It serves as a practical learning exercise for parsing techniques and fundamental compiler construction concepts in academic settings.
 
+**Just for semester project**
+
 The project includes:
 - Lexical analysis (`lexer.l`)
 - Syntax parsing (`parser.y`)
